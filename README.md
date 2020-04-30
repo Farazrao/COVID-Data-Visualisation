@@ -23,5 +23,8 @@ Visualisation using Seaborn
 ### 4. 10 countries death cases as of 29th April
 <img src ="image/dead.PNG" width ="700"/>
 
+### 5. Nepal confirmed cases as of 29th April
+<img src ="image/nepal.PNG" width ="700"/>
+
 
 
